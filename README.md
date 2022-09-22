@@ -7,7 +7,7 @@ we apply steps :-<br>
 *- data cleaning<br>
 *- exploratory data analysis<br>
 *- feature extraction<br>
-*- featur selection<br>
+*- feature selection<br>
 
 
 we use pandas / numpy / matplotlib / re (regular expression) / requests_html / sklearn<br>
