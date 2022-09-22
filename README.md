@@ -1,8 +1,8 @@
 # Feature_engineering
 use some techniuqes to apply FE in Summer football transfer 2022
 
-we apply steps :-
-*- call Toolkit
+we apply steps :-<br>
+*- call Toolkit<br>
 *- explore data
 *- data cleaning
 *- exploratory data analysis
